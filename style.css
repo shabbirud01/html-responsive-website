@@ -28,15 +28,18 @@ footer {
 {
   color:midnightblue ;
 }
-
+.card
+{
+width:45%;
+}
 .left {
   float: left;
-  width: 45%;
+
 }
 
 .right {
   float: right;
-  width: 45%;
+ 
 }
 @media (max-width: 680px) {
   .logo {
