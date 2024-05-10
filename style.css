@@ -28,16 +28,15 @@ footer {
 {
   color:midnightblue ;
 }
-.card
-{
-width:45%;
-}
+
 .left {
+  width:45%;
   float: left;
 
 }
 
 .right {
+  width:45%;
   float: right;
  
 }
@@ -51,14 +50,14 @@ width:45%;
     text-align: center;
   }
 
-  .card {
+  .left,.right {
     width: 100%;
     display: block;
     margin-bottom: 30px;
     text-align: justify;
   }
 
-  .card img {
+  .left,.right img {
     margin-bottom: 10px;
     width: 100%;
     display: inline;
